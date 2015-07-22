@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.blue_grey-lime.min.css" />
+<script src="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<!-- Simple header with fixed tabs. -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header
+            mdl-layout--fixed-tabs">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <span class="mdl-layout-title">UoN Semester 2 2015 First Year Timetable Importer</span>
+    </div>
+    <!-- Tabs -->
+    <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
+      <a href="#fixed-tab-1" class="mdl-layout__tab is-active">Timetable Importer</a>
+      <a href="#fixed-tab-2" class="mdl-layout__tab">About</a>
+      <a href="#fixed-tab-3" class="mdl-layout__tab">Source</a>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">UoN Semester 2 2015 First Year Timetable Importer</span>
+  </div>
+  <main class="mdl-layout__content">
+    <section class="mdl-layout__tab-panel is-active" id="fixed-tab-1">
+      <div class="page-content"><center>
+          {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+<form action="{% url 'timetable:processing' %}" method="post">
+    {% csrf_token %}
+    <h3>{{ pblq.question_text }}</h3>
+    <select name="pblchoice">
+        {% for choice in pblq.pblchoice_set.all %}
+            <option value="{{ choice.id }}">{{ choice.choice_text }}</option>
+        {% endfor %}
+    </select>
+    <h3>{{ numq.question_text }}</h3>
+    {% for choice in numq.numchoice_set.all %}
+        <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="choice{{ forloop.counter }}">
+        <input class="mdl-radio__button" type="radio" name="numchoice" id="choice{{ forloop.counter }}" value="{{ choice.id }}" />
+            <span class="mdl-radio__label">{{ choice.choice_number }}</span></label><br />
+    {% endfor %}
+    <h3>Name your timetable:</h3>
+    <div class="mdl-textfield mdl-js-textfield textfield-demo">
+    <input class="mdl-textfield__input" type="text" name="timetable_title" id="timetable_title" value="JMP Timetable">
+    <label class="mdl-textfield__label" for="timetable_title">Name your timetable...</label></div>
+    <h4>What do you want to do with your timetable?</h4>
+    <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="destination-gcal">
+    <input class="mdl-radio__button" type="radio" name="destination" id="destination-gcal" value="gcal" checked>
+    <span class="mdl-radio__label">Import my timetable directly into Google Calendar</span></label><br />
+    <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="destination-csv">
+    <input class="mdl-radio__button" type="radio" name="destination" id="destination-csv" value="csv">
+    <span class="mdl-radio__label">Let me download my timetable as a .CSV file</span></label>
+    <input type="hidden" name="auth_code" value="{{ auth_code }}">
+    <input type="hidden" name="redir_url" value="{{ redir_url }}">
+    <br /><br />
+    <input type="submit" value="Get Timetable" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+</form><h4>Note:</h4>
+    <p>The option to import into Google Calendar takes a little bit of time and while it's loading it might seem like it's not doing anything even though it is. Don't press any other buttons or exit out of the tab or you may end up with an incomplete timetable in your account.</p><br/></center>
+      </div>
+    </section>
+    <section class="mdl-layout__tab-panel" id="fixed-tab-2">
+      <div class="page-content"><!-- Your content goes here --></div>
+    </section>
+    <section class="mdl-layout__tab-panel" id="fixed-tab-3">
+      <div class="page-content"><!-- Your content goes here --></div>
+    </section>
+  </main>
+</div>
+
+</html>
