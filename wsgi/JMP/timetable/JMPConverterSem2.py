@@ -48,7 +48,8 @@ def create_timetable(PBL, PBLNUM):
     tt_parsed = []
     PBL_combined = PBL + PBLNUM
 
-    with open('timetable/static/timetable/JMP Sem 2 Base.csv', mode='rb') as infile:
+#    with open('timetable/static/timetable/JMP Sem 2 Base.csv', mode='rb') as infile:
+    with open('static/JMP Sem 2 Base.csv', mode='rb') as infile:
         reader = csv.reader(infile)
         for row in reader:
             tt_temp.append({'Wk': row[0], 'Day': row[1], 'Date': row[2], 'Time': row[3], 'Duration': row[4],
@@ -214,7 +215,7 @@ def export_calendar(auth_code, calendar_dict, redir_url, calendar_title):
 
 def make_csv(calendar_dict):
     keys = calendar_dict[0].keys()
-    with open('timetable/static/timetable/timetable.csv', 'wb') as outfile:
+    with open('static/timetable.csv', 'wb') as outfile:
         dict_writer = csv.DictWriter(outfile, keys)
         dict_writer.writeheader()
         dict_writer.writerows(calendar_dict)
