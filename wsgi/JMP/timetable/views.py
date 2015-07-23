@@ -61,7 +61,7 @@ def processing(request):
             elif destination == 'csv':
                 csv_name = JMPConverterSem2.make_csv(timetable)
                 csv_name = csv_name.strip('app-root/runtime/repo/wsgi/static/exported_timetables/timetable_.csv')
-                return HttpResponseRedirect(reverse('timetable:download', args=(csv_name, timetable_title)))
+                return HttpResponseRedirect(reverse('timetable:download', args=(csv_name, timetable_title.replace(' ','_'))))
             else:
                 return render(request, 'timetable/details.html', {
                     'error_message': "Unknown destination error. Please try again.",
