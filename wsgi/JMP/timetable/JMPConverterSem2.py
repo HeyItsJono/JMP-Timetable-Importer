@@ -58,7 +58,7 @@ def create_timetable(PBL, PBLNUM):
                                 'Group': row[5], 'Venue': row[6], 'Session': row[7], 'Presenter': row[8], 'Course': row[9]})
             del tt_temp[0]
     except:
-        files = [f for f in os.listdir('.') if os.path.isfile(f)]
+        files = [f for f in os.listdir('.')]
         raise Exception('above: ' + str(files))
 
     for event in tt_temp:
