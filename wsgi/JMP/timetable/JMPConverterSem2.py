@@ -51,14 +51,14 @@ def create_timetable(PBL, PBLNUM):
 
 #    with open('timetable/static/timetable/JMP Sem 2 Base.csv', mode='rb') as infile:
     try:
-        with open('app-root/runtime/repo/wsig/static/JMP Sem 2 Base.csv', mode='rb') as infile:
+        with open('app-root/runtime/repo/wsgi/static/JMP Sem 2 Base.csv', mode='rb') as infile:
             reader = csv.reader(infile)
             for row in reader:
                 tt_temp.append({'Wk': row[0], 'Day': row[1], 'Date': row[2], 'Time': row[3], 'Duration': row[4],
                                 'Group': row[5], 'Venue': row[6], 'Session': row[7], 'Presenter': row[8], 'Course': row[9]})
             del tt_temp[0]
     except:
-        files = [f for f in os.listdir('app-root/runtime/repo')]
+        files = [f for f in os.listdir('app-root/runtime/repo/wsgi')]
         raise Exception('above: ' + str(files))
 
     for event in tt_temp:
