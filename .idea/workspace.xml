@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8294b7a8-8d8b-456c-8884-b7c7a8b47f69" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py" afterPath="$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="timetable.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="JMPConverterSem2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8119954">
-              <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.73587084">
+              <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -351,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8119954">
-          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.73587084">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
           <folding />
         </state>
       </provider>
