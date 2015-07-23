@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 SECRET_KEY = 'g(qme_k#lut=(8oh=upgoa2g5xeo8!-26a#22&yag#zhh=$#*%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['timetable-uonjmp.rhcloud.com', 'localhost', '127.0.0.1']
 
