@@ -59,7 +59,7 @@ def create_timetable(PBL, PBLNUM):
             del tt_temp[0]
     except:
         files = [f for f in os.listdir('.') if os.path.isfile(f)]
-            for f in files: print f
+        raise Exception(str(files))
 
     for event in tt_temp:
         if event['Group'] == 'All':
