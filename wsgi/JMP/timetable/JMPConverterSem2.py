@@ -8,6 +8,7 @@ from collections import OrderedDict
 import httplib2
 from oauth2client.client import OAuth2WebServerFlow
 from apiclient.discovery import build
+import os
 
 lettnum = {'A': 1, 'C': 3, 'B': 2, 'E': 5, 'D': 4, 'G': 7, 'F': 6, 'I': 9, 'H': 8, 'K': 11, 'J': 10, 'M': 13, 'L': 12,
            'O': 15, 'N': 14, 'Q': 17, 'P': 16, 'S': 19, 'R': 18, 'U': 21, 'T': 20, 'W': 23, 'V': 22, 'Y': 25, 'X': 24,
@@ -49,12 +50,16 @@ def create_timetable(PBL, PBLNUM):
     PBL_combined = PBL + PBLNUM
 
 #    with open('timetable/static/timetable/JMP Sem 2 Base.csv', mode='rb') as infile:
-    with open('JMP Sem 2 Base.csv', mode='rb') as infile:
-        reader = csv.reader(infile)
-        for row in reader:
-            tt_temp.append({'Wk': row[0], 'Day': row[1], 'Date': row[2], 'Time': row[3], 'Duration': row[4],
-                            'Group': row[5], 'Venue': row[6], 'Session': row[7], 'Presenter': row[8], 'Course': row[9]})
-        del tt_temp[0]
+    try:
+        with open('JMP Sem 2 Base.csv', mode='rb') as infile:
+            reader = csv.reader(infile)
+            for row in reader:
+                tt_temp.append({'Wk': row[0], 'Day': row[1], 'Date': row[2], 'Time': row[3], 'Duration': row[4],
+                                'Group': row[5], 'Venue': row[6], 'Session': row[7], 'Presenter': row[8], 'Course': row[9]})
+            del tt_temp[0]
+    except:
+        files = [f for f in os.listdir('.') if os.path.isfile(f)]
+            for f in files: print f
 
     for event in tt_temp:
         if event['Group'] == 'All':
