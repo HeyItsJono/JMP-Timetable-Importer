@@ -51,7 +51,7 @@ def create_timetable(PBL, PBLNUM):
 
 #    with open('timetable/static/timetable/JMP Sem 2 Base.csv', mode='rb') as infile:
     try:
-        with open('static/JMP Sem 2 Base.csv', mode='rb') as infile:
+        with open('/static/JMP Sem 2 Base.csv', mode='rb') as infile:
             reader = csv.reader(infile)
             for row in reader:
                 tt_temp.append({'Wk': row[0], 'Day': row[1], 'Date': row[2], 'Time': row[3], 'Duration': row[4],
