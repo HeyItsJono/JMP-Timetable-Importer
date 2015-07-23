@@ -59,7 +59,9 @@ def processing(request):
                 JMPConverterSem2.export_calendar(auth_code, timetable, this_url, timetable_title)
                 return HttpResponseRedirect(reverse('timetable:results'))
             elif destination == 'csv':
-                return HttpResponseRedirect(reverse('timetable:download'))
+                csv_name = JMPConverterSem2.make_csv(timetable)
+                csv_name = csv_name.strip('app-root/runtime/repo/wsgi/static/exported_timetables/timetable_.csv')
+                return HttpResponseRedirect(reverse('timetable:download', args=(csv_name,)))
             else:
                 return render(request, 'timetable/details.html', {
                     'error_message': "Unknown destination error. Please try again.",
@@ -72,8 +74,9 @@ def results(request):
 
 
 def download(request):
-    csv_name = JMPConverterSem2.make_csv(timetable)
-    with open(csv_name, 'rb') as infile:
-        response = HttpResponse(infile, content_type='text/csv')
-        response['Content-Disposition'] = 'attachment; filename="timetable.csv"'
-        return response
+    this_url = request.build_absolute_uri()
+    return HttpResponse(this_url)
+    # with open(csv_name, 'rb') as infile:
+    #     response = HttpResponse(infile, content_type='text/csv')
+    #     response['Content-Disposition'] = 'attachment; filename="timetable.csv"'
+    #     return response

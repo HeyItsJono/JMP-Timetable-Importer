@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294b7a8-8d8b-456c-8884-b7c7a8b47f69" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py" afterPath="$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi/JMP/timetable/views.py" afterPath="$PROJECT_DIR$/wsgi/JMP/timetable/views.py" />
     </list>
     <ignored path="timetable.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7716263">
-              <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.87312573">
+              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -40,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="223" column="19" selection-start-line="223" selection-start-column="19" selection-end-line="223" selection-end-column="19" />
+              <caret line="217" column="80" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -388,15 +387,15 @@
     <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="223" column="19" selection-start-line="223" selection-start-column="19" selection-end-line="223" selection-end-column="19" />
+          <caret line="217" column="80" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7716263">
-          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.87312573">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
