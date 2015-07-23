@@ -77,5 +77,5 @@ def download(request, csv_name, timetable_title):
     csv_name = 'app-root/runtime/repo/wsgi/static/exported_timetables/timetable_' + csv_name + '.csv'
     with open(csv_name, 'rb') as infile:
         response = HttpResponse(infile, content_type='text/csv')
-        response['Content-Disposition'] = 'attachment; filename="{timetable_title}'.format(timetable_title=timetable_title)
+        response['Content-Disposition'] = 'attachment; filename="{timetable_title}'.format(timetable_title=timetable_title + '.csv')
         return response

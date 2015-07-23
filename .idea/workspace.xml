@@ -26,8 +26,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39100346">
-              <caret line="63" column="120" selection-start-line="63" selection-start-column="120" selection-end-line="63" selection-end-column="120" />
+            <state vertical-scroll-proportion="2.0046136">
+              <caret line="79" column="132" selection-start-line="79" selection-start-column="132" selection-end-line="79" selection-end-column="132" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -413,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39100346">
-          <caret line="63" column="120" selection-start-line="63" selection-start-column="120" selection-end-line="63" selection-end-column="120" />
+        <state vertical-scroll-proportion="2.0046136">
+          <caret line="79" column="132" selection-start-line="79" selection-start-column="132" selection-end-line="79" selection-end-column="132" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
