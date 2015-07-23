@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8294b7a8-8d8b-456c-8884-b7c7a8b47f69" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py" afterPath="$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wsgi/JMP/timetable/views.py" afterPath="$PROJECT_DIR$/wsgi/JMP/timetable/views.py" />
     </list>
     <ignored path="timetable.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.7716263">
+              <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -35,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JMPConverterSem2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JMPConverterSem2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55824685">
-              <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="223" column="19" selection-start-line="223" selection-start-column="19" selection-end-line="223" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -65,9 +66,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wsgi/JMP/timetable/views.py" />
         <option value="$PROJECT_DIR$/wsgi/JMP/JMP/urls.py" />
         <option value="$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py" />
+        <option value="$PROJECT_DIR$/wsgi/JMP/timetable/views.py" />
       </list>
     </option>
   </component>
@@ -374,16 +375,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wsgi/JMP/JMP/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -396,9 +387,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/JMPConverterSem2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55824685">
-          <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="223" column="19" selection-start-line="223" selection-start-column="19" selection-end-line="223" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsgi/JMP/timetable/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7716263">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

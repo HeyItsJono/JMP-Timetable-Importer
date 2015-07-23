@@ -59,7 +59,6 @@ def processing(request):
                 JMPConverterSem2.export_calendar(auth_code, timetable, this_url, timetable_title)
                 return HttpResponseRedirect(reverse('timetable:results'))
             elif destination == 'csv':
-                JMPConverterSem2.make_csv(timetable)
                 return HttpResponseRedirect(reverse('timetable:download'))
             else:
                 return render(request, 'timetable/details.html', {
@@ -73,7 +72,8 @@ def results(request):
 
 
 def download(request):
-    with open('timetable/static/timetable/timetable.csv', 'rb') as infile:
+    csv_name = JMPConverterSem2.make_csv(timetable)
+    with open(csv_name, 'rb') as infile:
         response = HttpResponse(infile, content_type='text/csv')
         response['Content-Disposition'] = 'attachment; filename="timetable.csv"'
         return response
