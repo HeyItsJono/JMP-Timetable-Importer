@@ -1,0 +1,973 @@
+Wk,Day,Date,Time,Duration,Group,Venue,Session,Presenter,Course
+1,Mon,20/07/2015,2:00pm - 3:00pm,1,All,HB 15,Introduction to GP Placements,"Pond, Prof D",MEDI1014
+1,Mon,20/07/2015,3:00pm - 3:30pm,0.5,All,HB 15,Introduction to MEDI1015,"Spratt, Dr N",MEDI1015
+1,Mon,20/07/2015,4:00pm - 5:00pm,1,All,HB 15,An Introduction to clinical biochemical analysis,"Sontag, A/Prof E",MEDI1015
+1,Wed,22/07/2015,10:00am - 11:00am,1,B7-B9 + C1-C5,RW 1-16,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,10:00am - 11:00am,1,A2-A9 + B1-B6,RW 1-15,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,10:00am - 11:00am,1,C6-C9 + D + E1,RW 1-17,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,11:00am - 12:00pm,1,F8-F9 + G1-G6,RW 1-16,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,11:00am - 12:00pm,1,E2-E4 + E6-E9 + F1-F7,RW 1-15,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,11:00am - 12:00pm,1,G7 + G9 + H + I1-I3,RW 1-17,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,12:30pm - 1:30pm,1,K,RW 1-16,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,12:30pm - 1:30pm,1,I4-I9 + J1-J7 + J9,RW 1-15,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,12:30pm - 1:30pm,1,L1-L3 + L5-L8 + M1-M7,RW 1-17,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,1:30pm - 2:30pm,1,O6-O8 +P1-P4,RW 1-16,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,1:30pm - 2:30pm,1,M8 + N + O1-O5,RW 1-15,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,1:30pm - 2:30pm,1,P5-P8 + Q,RW 1-17,Tutorial Prof Skills - Abdominal Lab (mandatory),"Veysey, A/Prof M",MEDI1014
+1,Wed,22/07/2015,3:00pm - 4:30pm,1.5,All,HD 01,"Introduction to Renal History and examination,
+Musculoskeletal History and examination,
+Gastrointestinal History and examination","Veysey, A/Prof M",MEDI1014
+1,Thu,23/07/2015,11:00am - 12:00pm,1,A-E+F1-F5,MSW 414,Histol Lab: The basic tissues revisted,"Brichta, Prof A",MEDI1015
+1,Thu,23/07/2015,12:00pm - 1:00pm,1,F6-F9+G-K,MSW 414,Histol Lab: The basic tissues revisted,"Brichta, Prof A",MEDI1015
+1,Thu,23/07/2015,1:00pm - 2:00pm,1,L-Q,MSW 414,Histol Lab: The basic tissues revisted,"Brichta, Prof A",MEDI1015
+1,Fri,24/07/2015,9:00am - 12:00pm,3,N,HB 09A,Open Working Problem 1,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,A,HPE 209,Open Working Problem 1,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,B,HA 184,Open Working Problem 1,"Bencke, Dr A","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,D,HA 186,Open Working Problem 1,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,E,HA 187,Open Working Problem 1,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,F,HA 188,Open Working Problem 1,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,G,HA 189,Open Working Problem 1,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,H,HA 190,Open Working Problem 1,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,I,HA 191,Open Working Problem 1,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,J,HA 192,Open Working Problem 1,"Liackman, Dr R","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,K,HA 193,Open Working Problem 1,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,L,HA 194,Open Working Problem 1,"Amory, Dr P","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,M,HA 195,Open Working Problem 1,"Fried, Dr R","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,O,HB 09B,Open Working Problem 1,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,P,HB 09C,Open Working Problem 1,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,9:00am - 12:00pm,3,Q,HB 09D,Open Working Problem 1,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+1,Fri,24/07/2015,3:00pm - 6:00pm,3,C,HA 185,Open Working Problem 1,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+2,Mon,27/07/2015,10:00am - 11:00am,1,All,HB 15,Bowel microflora,"Keely, Dr S",MEDI1015
+2,Mon,27/07/2015,11:00am - 12:00pm,1,All,HB 15,Gastrointestinal motility and a glancing introduction to the ANS,"Jobling, Dr P",MEDI1015
+2,Mon,27/07/2015,12:00pm - 1:00pm,1,All,HB 15,Diagnosing abdominal pain in children,"Percival, Dr E",MEDI1014
+2,Wed,29/07/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 1,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 1,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 1,"Amory, Dr P","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 1,"Fried, Dr R","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 1,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 1,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 1,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 1,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 1,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 1,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 1,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 1,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 1,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 1,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 1,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 1,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+2,Wed,29/07/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 1,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+2,Thu,30/07/2015,11:00am - 12:00pm,1,A-H,MSW 310,Tutorial Gross AN Lab: Gastrointestinal Tract excluding biliary system,"Brichta, Prof A",MEDI1015
+2,Thu,30/07/2015,12:00pm - 1:00pm,1,I-Q,MSW 310,Tutorial Gross AN Lab: Gastrointestinal Tract excluding biliary system,"Brichta, Prof A",MEDI1015
+2,Fri,31/07/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 2,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 2,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 2,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 2,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 2,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 2,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 2,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 2,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 2,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 2,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 2,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 2,"Amory, Dr P","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 2,"Fried, Dr R","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 2,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 2,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 2,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+2,Fri,31/07/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 2,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+3,Mon,03/08/2015,9:00am - 11:00am,2,All,HB 15,Aboriginal Health I ,"Nicholls, Dr K",MEDI1014
+3,Mon,03/08/2015,11:00am - 12:30pm,1.5,All,HB 15,Patient Safety 3 (mandatory),"Oates, Prof K",MEDI1014
+3,Mon,03/08/2015,1:00pm - 2:00pm,1,All,HB 15,Overview of gastrointestinal secretions,"Jobling, Dr P",MEDI1015
+3,Mon,03/08/2015,3:00pm - 4:30pm,1.5,All,HB 15,The five things you need to know about public health,"Aldrich, Dr R",MEDI1014
+3,Tue,04/08/2015,9:30am - 10:30am,1,All,HB 15,Gross anatomy of the biliary tract,"Smith, Dr D",MEDI1015
+3,Tue,04/08/2015,11:00am - 12:00pm,1,A-E+F1-F5,MSW 414,"Histol Lab: liver, biliary tract & pancreas","Brichta, Prof A",MEDI1015
+3,Tue,04/08/2015,12:00pm - 1:00pm,1,F6-F9+G-K,MSW 414,"Histol Lab: liver, biliary tract & pancreas","Brichta, Prof A",MEDI1015
+3,Tue,04/08/2015,1:00pm - 2:00pm,1,L-Q,MSW 414,"Histol Lab: liver, biliary tract & pancreas","Brichta, Prof A",MEDI1015
+3,Tue,04/08/2015,3:00pm - 5:00pm,2,All,HD 01,Palliative care symposium,"Cameron-Taylor, Dr E",MEDI1014
+3,Tue,04/08/2015,5:00pm - 6:00pm,1,All,HD 01,Clinical aspects of jaundice,"Veysey, A/Prof M",MEDI1014
+3,Wed,05/08/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 2,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 2,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 2,"Amory, Dr P","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 2,"Fried, Dr R","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 2,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 2,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 2,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 2,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 2,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 2,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 2,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 2,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 2,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 2,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 2,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 2,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+3,Wed,05/08/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 2,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+3,Thu,06/08/2015,11:00am - 12:00pm,1,A-H,MSW 310,"Gross Anatomy Lab: liver, pancreas & biliary tract","Brichta, Prof A",MEDI1015
+3,Thu,06/08/2015,12:00pm - 1:00pm,1,I-Q,MSW 310,"Gross Anatomy Lab: liver, pancreas & biliary tract","Brichta, Prof A",MEDI1015
+3,Thu,06/08/2015,1:30pm - 2:30pm,1,All,HD 01,Social Determinants of Health,"Ewald, Dr B",MEDI1014
+3,Fri,07/08/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 3,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 3,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 3,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 3,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 3,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 3,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 3,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 3,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 3,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 3,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 3,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 3,"Amory, Dr P","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 3,"Fried, Dr R","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 3,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 3,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 3,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+3,Fri,07/08/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 3,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+4,Tue,11/08/2015,9:00am - 10:00am,1,All,HB 15,Psychology of serious illness,"Outram, A/Prof S",MEDI1014
+4,Tue,11/08/2015,10:00am - 11:00am,1,All,HB 15,Pharmacology of anti-ulcer drugs and antibiotics,"Hirst, Dr J",MEDI1015
+4,Tue,11/08/2015,11:15am - 12.15pm,1,A-E+F1-F5,MSW 414,Histol Lab: stomach & intestines,"Brichta, Prof A",MEDI1015
+4,Tue,11/08/2015,12:15pm - 1:15pm,1,F6-F9+G-K,MSW 414,Histol Lab: stomach & intestines,"Brichta, Prof A",MEDI1015
+4,Tue,11/08/2015,1:15pm - 2:15pm,1,L-Q,MSW 414,Histol Lab: stomach & intestines,"Brichta, Prof A",MEDI1015
+4,Tue,11/08/2015,3:00pm - 4:00pm,1,All,HD 01,Pathogenesis and Epidemiology of Ulcers,"Bollipo, Dr S",MEDI1014
+4,Tue,11/08/2015,4:00pm - 5:00pm,1,All,HD 01,Autonomic nervous system structure and function,"Jobling, Dr P",MEDI1015
+4,Tue,11/08/2015,5:00pm - 6:00pm,1,All,HD 01,"Management of Gastrointestinal haemorrhage -
+risk stratification, endoscopic therapy","Veysey, A/Prof M",MEDI1014
+4,Wed,12/08/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 3,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 3,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 3,"Amory, Dr P","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 3,"Fried, Dr R","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 3,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 3,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 3,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 3,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 3,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 3,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 3,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 3,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 3,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 3,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 3,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 3,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+4,Wed,12/08/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 3,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 4,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 4,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 4,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 4,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 4,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 4,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 4,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 4,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 4,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 4,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 4,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 4,"Amory, Dr P","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 4,"Fried, Dr R","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 4,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 4,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 4,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+4,Fri,14/08/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 4,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+5,Mon,17/08/2015,9:30am - 11:30am,2,All,HB 15,Aboriginal Health II,"Nicholls, Dr K",MEDI1014
+5,Mon,17/08/2015,12:00pm - 1:00pm,1,All,HB 15,Immunology of bowel disease,"Keely, Dr S",MEDI1015
+5,Mon,17/08/2015,2:00pm - 3:00pm,1,All,HB 15,Diarrhoea and vomiting - mechanisms,"Jobling, Dr P",MEDI1015
+5,Mon,17/08/2015,3:00pm - 4:00pm,1,All,HB 13 & HA 64,"Mechanisms of membrane transport; movement
+across the intestinal wall and consequences of abnormalities","Sontag, A/Prof E",MEDI1015
+5,Tue,18/08/2015,11:00am - 12:00pm,1,A-E+F1-F5,MSW 414,Histol Lab: lymphoid & immune system,"Brichta, Prof A",MEDI1015
+5,Tue,18/08/2015,12:00pm - 1:00pm,1,F6-F9+G-K,MSW 414,Histol Lab: lymphoid & immune system,"Brichta, Prof A",MEDI1015
+5,Tue,18/08/2015,1:00pm - 2:00pm,1,L-Q,MSW 414,Histol Lab: lymphoid & immune system,"Brichta, Prof A",MEDI1015
+5,Tue,18/08/2015,4:00pm - 5:00pm,1,All,HD 01,Diagnosis and management of malabsorption and persistent diarrhoea,"Veysey, A/Prof M",MEDI1014
+5,Tue,18/08/2015,5:00pm - 6:00pm,1,All,HD 01,"Inflammatory Bowel Disease - epidemiology, diagnosis and management","Veysey, A/Prof M",MEDI1014
+5,Wed,19/08/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 4,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 4,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 4,"Amory, Dr P","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 4,"Fried, Dr R","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 4,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 4,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 4,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 4,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 4,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 4,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 4,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 4,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 4,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 4,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 4,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 4,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+5,Wed,19/08/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 4,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+5,Thu,20/08/2015,9:30am - 10:30am,1,All,HB 13 & HA 64,"Clinical aspects of bowel obstruction -
+aetiology, diagnosis, management","Chen, Dr S",MEDI1014
+5,Fri,21/08/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 5,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 5,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 5,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 5,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 5,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 5,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 5,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 5,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 5,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 5,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 5,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 5,"Amory, Dr P","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 5,"Fried, Dr R","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 5,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 5,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 5,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+5,Fri,21/08/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 5,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+6,Mon,24/08/2015,9:00am - 10:00am,1,All,HB 15,Infectious diarrhoea,"Ferguson, Dr J",MEDI1015
+6,Mon,24/08/2015,10:00am - 11:00am,1,All,HB 15,Managing infants with acute diarrhoeal illnesses,"Nightingale, Dr S",MEDI1014
+6,Wed,26/08/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 5,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 5,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 5,"Amory, Dr P","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 5,"Fried, Dr R","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 5,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 5,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 5,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 5,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 5,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 5,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 5,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 5,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 5,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 5,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 5,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 5,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+6,Wed,26/08/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 5,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 6,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 6,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 6,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 6,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 6,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 6,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 6,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 6,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 6,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 6,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 6,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 6,"Amory, Dr P","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 6,"Fried, Dr R","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 6,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 6,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 6,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 6,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+6,Fri,28/08/2015,12:00pm - 1:00pm,1,All,HB 15,Public health aspects of managing outbreaks of disease,"Merritt, Dr T",MEDI1014
+7,Mon,31/08/2015,10:00am - 11:00am,1,All,HB 13 & HA 64,Streptococcal infections,"Horvat, Dr J",MEDI1015
+7,Mon,31/08/2015,11:00am - 12:00pm,1,All,HB 13 & HA 64,Diagnosis and management issues in glomerular disease,"Nanra, Prof R",MEDI1014
+7,Mon,31/08/2015,1:00pm - 2:00pm,1,All,HB 13 & HA 64,Clinical aspects of Nephrotic syndrome - aetiology and management,"Vilayur, Dr E",MEDI1014
+7,Mon,31/08/2015,2:00pm - 3:00pm,1,All,HB 13 & HA 64,How the kidney handles and is affected by drugs,"Vilayur, Dr E",MEDI1014
+7,Mon,31/08/2015,3:00pm - 3:30pm,0.5,All,HD 01,MEDI1015 Review 1,"Spratt, Dr N",MEDI1015
+7,Tue,01/09/2015,11:00am - 12:00pm,1,A-E+F1-F5,MSW 414,Histology Lab: urinary-renal systems I,"Brichta, Prof A",MEDI1015
+7,Tue,01/09/2015,12:00pm - 1:00pm,1,F6-F9+G-K,MSW 414,Histology Lab: urinary-renal systems I,"Brichta, Prof A",MEDI1015
+7,Tue,01/09/2015,1:00pm - 2:00pm,1,L-Q,MSW 414,Histology Lab: urinary-renal systems I,"Brichta, Prof A",MEDI1015
+7,Tue,01/09/2015,2:30pm - 3:30pm,1,All,MS 202,How does the kidney perform its functions,"Jobling, Dr P",MEDI1015
+7,Wed,02/09/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 6,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 6,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 6,"Amory, Dr P","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 6,"Fried, Dr R","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 6,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 6,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 6,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 6,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 6,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 6,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 6,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 6,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 6,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 6,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 6,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 6,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+7,Wed,02/09/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 6,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+7,Thu,03/09/2015,11:00am - 12:00pm,1,A-H,MSW 310,Gross Anatomy Lab: urinary-renal system,"Brichta, Prof A",MEDI1015
+7,Thu,03/09/2015,12:00pm - 1:00pm,1,I-Q,MSW 310,Gross Anatomy Lab: urinary-renal system,"Brichta, Prof A",MEDI1015
+7,Thu,03/09/2015,2:00pm - 3:00pm,1,All,MS 202,Diarrhoea and vomiting-consequences,"Sontag, A/Prof E",MEDI1015
+7,Thu,03/09/2015,3:00pm - 4:00pm,1,All,MS 202,Proteins,"Sontag, A/Prof E",MEDI1015
+7,Fri,04/09/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 7,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 7,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 7,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 7,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 7,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 7,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 7,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 7,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 7,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 7,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 7,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 7,"Amory, Dr P","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 7,"Fried, Dr R","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 7,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 7,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 7,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+7,Fri,04/09/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 7,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+8,Mon,07/09/2015,8:00am - 9:00am,1,All,HB 13 & HA 64,Introduction to gastrointestinal radiology,"Josey, Dr L",MEDI1014
+8,Mon,07/09/2015,11:00am - 12:00pm,1,All,HB 13 & HA 64,Complications and management of end stage renal failure,"Vilayur, Dr E",MEDI1014
+8,Mon,07/09/2015,1:00pm - 2:00pm,1,All,HB 13 & HA 64,Review of acid-base control,"Sontag, A/Prof E",MEDI1015
+8,Mon,07/09/2015,3:00pm - 4:30pm,1.5,All,HD 01,Chronic disease and the Indigenous population,"Nicholls, Dr K",MEDI1014
+8,Tue,08/09/2015,10:00am - 12:00pm,2,A+B,HPE 202,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Tue,08/09/2015,10:00am - 12:00pm,2,C+D,HPE 209,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Tue,08/09/2015,1:00pm - 3:00pm,2,E+F,HPE 202,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Tue,08/09/2015,1:00pm - 3:00pm,2,G+H,HPE 209,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Wed,09/09/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 7,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 7,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 7,"Amory, Dr P","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 7,"Fried, Dr R","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 7,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 7,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 7,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 7,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 7,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 7,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 7,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 7,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 7,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 7,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 7,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 7,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+8,Wed,09/09/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 7,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+8,Thu,10/09/2015,10:00am - 12:00pm,2,I+J+Q1+Q2,HC 01,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Thu,10/09/2015,10:00am - 12:00pm,2,K+L+Q3+Q4,HA 68,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Thu,10/09/2015,1:00pm - 3:00pm,2,O+P+Q7+Q8,HA 55,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Thu,10/09/2015,1:00pm - 3:00pm,2,M+N+Q5+Q6,HC 02,Communication Skills 1 (mandatory),"TBA, Dr",MEDI1014
+8,Fri,11/09/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 8,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 8,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 8,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 8,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 8,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 8,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 8,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 8,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 8,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 8,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 8,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 8,"Amory, Dr P","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 8,"Fried, Dr R","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 8,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 8,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 8,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 8,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+8,Fri,11/09/2015,2:00pm - 3:00pm,1,"All (timetable will
+be posted on BB
+closer to exam date)",Callaghan TBA,MEDI1015 Mid-term Examination,"Spratt, Dr N",MEDI1015
+9,Mon,14/09/2015,8:00am - 9:00am,1,All,HB 13 & HA 64,Imaging of the liver and biliary tree,"Josey, Dr L",MEDI1014
+9,Mon,14/09/2015,9:00am - 10:00am,1,All,HB 13 & HA 64,Asking sensitive questions in health care,"Zangger, Dr M",MEDI1014
+9,Mon,14/09/2015,11:00am - 12:00pm,1,All,HB 13 & HA 64,"Renal Colic - epidemiology, investigation and management","Vilayur, Dr E",MEDI1014
+9,Mon,14/09/2015,12:00pm - 1:00pm,1,All,HB 13 & HA 64,Investigation and management of urinary incontinence,"Dabson, Dr A",MEDI1014
+9,Mon,14/09/2015,1:00pm - 2:00pm,1,All,HB 13 & HA 64,Calculi,"Sontag, A/Prof E",MEDI1015
+9,Tue,15/09/2015,11:00am - 12:00pm,1,A-E+F1-F5,MSW 414,Histol Lab: urinary-renal systems II,"Brichta, Prof A",MEDI1015
+9,Tue,15/09/2015,12:00pm - 1:00pm,1,F6-F9+G-K,MSW 414,Histol Lab: urinary-renal systems II,"Brichta, Prof A",MEDI1015
+9,Tue,15/09/2015,1:00pm - 2:00pm,1,L-Q,MSW 414,Histol Lab: urinary-renal systems II,"Brichta, Prof A",MEDI1015
+9,Tue,15/09/2015,3:00pm - 4:00pm,1,All,HB 13 & HA 64,Genetics,"Avery-Kiejda, Dr K",MEDI1015
+9,Tue,15/09/2015,4:00pm - 5:00pm,1,All,HB 13 & HA 64,Urinary tract - Infections & host defences,"Keely, Dr S",MEDI1015
+9,Wed,16/09/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 8,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 8,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 8,"Amory, Dr P","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 8,"Fried, Dr R","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 8,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 8,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 8,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 8,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 8,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 8,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 8,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 8,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 8,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 8,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 8,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 8,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+9,Wed,16/09/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 8,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 9,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 9,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 9,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 9,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 9,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 9,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 9,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 9,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 9,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 9,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 9,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 9,"Amory, Dr P","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 9,"Fried, Dr R","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 9,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 9,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 9,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+9,Fri,18/09/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 9,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+VACATION,,,,,,,,,
+10,Wed,07/10/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 9,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 9,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 9,"Amory, Dr P","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 9,"Fried, Dr R","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 9,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 9,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 9,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 9,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 9,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 9,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 9,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 9,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 9,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 9,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 9,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 9,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+10,Wed,07/10/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 9,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 10,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 10,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 10,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 10,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 10,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 10,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 10,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 10,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 10,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 10,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 10,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 10,"Amory, Dr P","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 10,"Fried, Dr R","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 10,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 10,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 10,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+10,Fri,09/10/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 10,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+11,Mon,12/10/2015,8:00am - 9:00am,1,All,HD 01,Imaging in Renal Disease,"Josey, Dr L",MEDI1014
+11,Mon,12/10/2015,10:00am - 11:00am,1,All,HB 13 & HA 64,Skeletal muscle function (and contrast with smooth muscle),"Spratt, Dr N",MEDI1015
+11,Mon,12/10/2015,11:00am - 12:00pm,1,All,HB 13 & HA 64,OHS - Manual Handling,"Miller, Mr P",MEDI1014
+11,Mon,12/10/2015,2:00pm - 3:00pm,1,All,HB 13 & HA 64,Back pain - the evidence,"Bogduk, Prof N",MEDI1014
+11,Mon,12/10/2015,3:00pm - 4:00pm,1,All,HB 13 & HA 64,Gross anatomy of the vertebral column and spinal cord,"Smith,  J",MEDI1015
+11,Tue,13/10/2015,10:00am - 11:00am,1,B7-B9 + C1-C5,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,10:00am - 11:00am,1,A2-A9 + B1-B6,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,10:00am - 11:00am,1,C6-C9 + D + E1,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,11:00am - 12:00pm,1,F8-F9 + G1-G6,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,11:00am - 12:00pm,1,E2-E4 + E6-E9 + F1-F7,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,11:00am - 12:00pm,1,G7 + G9 + H + I1-I3,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,12:30pm - 1:30pm,1,K,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,12:30pm - 1:30pm,1,I4-I9 + J1-J7 + J9,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,12:30pm - 1:30pm,1,L1-L3 + L5-L8 + M1-M7,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,1:30pm - 2:30pm,1,O6-O8 + P1-P4,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,1:30pm - 2:30pm,1,M8 + N + O1-O5,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Tue,13/10/2015,1:30pm - 2:30pm,1,P5-P8 + Q,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 1 (mandatory),"Khanam, Dr M",MEDI1014
+11,Wed,14/10/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 10,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 10,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 10,"Amory, Dr P","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 10,"Fried, Dr R","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 10,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 10,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 10,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 10,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 10,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 10,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 10,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 10,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 10,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 10,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 10,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 10,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+11,Wed,14/10/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 10,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+11,Thu,15/10/2015,11:00am - 12:00pm,1,A-H,MSW 310,Gross Anatomy Lab: vertebral column & spinal cord,"Brichta, Prof A",MEDI1015
+11,Thu,15/10/2015,12:00pm - 1:00pm,1,I-Q,MSW 310,Gross Anatomy Lab: vertebral column & spinal cord,"Brichta, Prof A",MEDI1015
+11,Fri,16/10/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 11,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 11,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 11,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 11,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 11,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 11,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 11,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 11,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 11,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 11,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 11,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 11,"Amory, Dr P","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 11,"Fried, Dr R","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 11,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 11,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 11,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+11,Fri,16/10/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 11,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+12,Mon,19/10/2015,8:00am - 9:00am,1,All,HB 13 & HA 64,Radiology of the musculoskeletal system,"Josey, Dr L",MEDI1014
+12,Mon,19/10/2015,9:00am - 10:00am,1,All,HB 13 & HA 64,Diseases of joints - diagnosis and management,"Van Der Kallen, Dr J",MEDI1014
+12,Mon,19/10/2015,10:00am - 11:00am,1,All,HB 13 & HA 64,Overview of joint anatomy,"Smith,  J",MEDI1015
+12,Mon,19/10/2015,12:00pm - 1:00pm,1,All,HB 13 & HA 64,"Structure and functional relationships between muscles,
+bones, ligaments and cartilage","Sontag, A/Prof E",MEDI1015
+12,Mon,19/10/2015,1:00pm - 2:00pm,1,All,HB 13 & HA 64,Advocacy for public health nutrition,"Heaney, Ms S",MEDI1014
+12,Mon,19/10/2015,3:00pm - 4:30pm,1.5,All,HD 01,Ethics - informed consent and waiting lists (mandatory),"Douglas, Dr C",MEDI1014
+12,Tue,20/10/2015,11:00am - 12:00pm,1,A-E+F1-F5,MSW 414,Histol Lab: cartilage & joint related structures,"Brichta, Prof A",MEDI1015
+12,Tue,20/10/2015,12:00pm - 1:00pm,1,F6-F9+G-K,MSW 414,Histol Lab: cartilage & joint related structures,"Brichta, Prof A",MEDI1015
+12,Tue,20/10/2015,1:00pm - 2:00pm,1,L-Q,MSW 414,Histol Lab: cartilage & joint related structures,"Brichta, Prof A",MEDI1015
+12,Wed,21/10/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 11,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 11,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 11,"Amory, Dr P","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 11,"Fried, Dr R","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 11,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 11,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 11,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 11,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 11,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 11,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 11,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 11,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 11,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 11,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 11,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 11,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+12,Wed,21/10/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 11,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+12,Thu,22/10/2015,11:00am - 12:00pm,1,A-H,MSW 310,Gross Anatomy Lab: Joints,"Brichta, Prof A",MEDI1015
+12,Thu,22/10/2015,12:00pm - 1:00pm,1,I-Q,MSW 310,Gross Anatomy Lab: Joints,"Brichta, Prof A",MEDI1015
+12,Fri,23/10/2015,9:30am - 11:30am,2,A,HPE 209,Open Working Problem 12,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,B,HA 184,Open Working Problem 12,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,C,HA 185,Open Working Problem 12,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,D,HA 186,Open Working Problem 12,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,E,HA 187,Open Working Problem 12,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,F,HA 188,Open Working Problem 12,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,G,HA 189,Open Working Problem 12,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,H,HA 190,Open Working Problem 12,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,I,HA 191,Open Working Problem 12,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,J,HA 192,Open Working Problem 12,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,K,HA 193,Open Working Problem 12,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,L,HA 194,Open Working Problem 12,"Amory, Dr P","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,M,HA 195,Open Working Problem 12,"Fried, Dr R","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,N,HB 09A,Open Working Problem 12,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,O,HB 09B,Open Working Problem 12,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,P,HB 09C,Open Working Problem 12,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+12,Fri,23/10/2015,9:30am - 11:30am,2,Q,HB 09D,Open Working Problem 12,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+13,Mon,26/10/2015,8:00am - 9:00am,1,All,HB 13 & HA 64,Introduction to Imaging of Osteoarthritis,"Josey, Dr L",MEDI1014
+13,Mon,26/10/2015,9:00am - 10:00am,1,All,HB 13 & HA 64,Managing patients with complex and multi-system disease,"Pond, Prof D",MEDI1014
+13,Mon,26/10/2015,11:00am - 12:30pm,1.5,All,HD 01,"The media and its influence on clinicians'
+and patients' choices (mandatory)","Douglas, Dr C",MEDI1014
+13,Mon,26/10/2015,2:00pm - 4:00pm,2,All,HD 01,"Complementary Medicine in back pain -
+chiropractic, osteopathic, naturopathic & acupuncture","Ms Jane / Van Baalen, Dr Lucy",MEDI1014
+13,Tue,27/10/2015,10:00am - 11:00am,1,B7-B9 + C1-C5,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,10:00am - 11:00am,1,A2-A9 + B1-B6,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,10:00am - 11:00am,1,C6-C9 + D + E1,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,11:00am - 12:00pm,1,F8-F9 + G1-G6,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,11:00am - 12:00pm,1,E2-E4 + E6-E9 +F1-F7,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,11:00am - 12:00pm,1,G7 + G9 + H + I1-I3,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,12:30pm - 1:30pm,1,K,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,12:30pm - 1:30pm,1,I4-I9 + J1-J7 + J9,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,12:30pm - 1:30pm,1,L1-L3 + L5-L8 + M1-M7,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,1:30pm - 2:30pm,1,O6-O8 + P1-P4,RW 1-16,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,1:30pm - 2:30pm,1,M8 + N + O1-O5,RW 1-15,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,1:30pm - 2:30pm,1,P5-P8 + Q,RW 1-17,Tutorial Prof Skills - Musculoskeletal Lab 2 (mandatory),"Khanam, Dr M",MEDI1014
+13,Tue,27/10/2015,3:00pm - 4:00pm,1,All,HD 01,Review Session: Professional Practice,"Khanam, Dr M",MEDI1014
+13,Wed,28/10/2015,8:30am - 11:30am,3,A,HA 185,Close Working Problem 12,"Jackel, Dr A","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,8:30am - 11:30am,3,D,HA 186,Close Working Problem 12,"Vallone, Ms C","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,8:30am - 11:30am,3,L,HA 194,Close Working Problem 12,"Amory, Dr P","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,8:30am - 11:30am,3,M,HA 195,Close Working Problem 12,"Fried, Dr R","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,9:00am - 12:00pm,3,F,HA 188,Close Working Problem 12,"Jobling, Ms J","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,9:30am - 12:30pm,3,E,HA 187,Close Working Problem 12,"Sontag, Dr J","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,9:30am - 12:30pm,3,I,HA 191,Close Working Problem 12,"Khanam, Dr M","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,9:30am - 12:30pm,3,J,HA 192,Close Working Problem 12,"Maharaj, Dr O","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,10:00am - 1:00pm,3,G,HA 189,Close Working Problem 12,"Vashum, Dr K","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,10:00am - 1:00pm,3,H,HA 190,Close Working Problem 12,"Parsons, Ms K","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,10:00am - 1:00pm,3,P,HA 193,Close Working Problem 12,"Dutta, Dr T","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,1:30pm - 4:30pm,3,B,HA 184,Close Working Problem 12,"Abdi, Dr A","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,2:00pm - 5:00pm,3,N,HA 193,Close Working Problem 12,"Kagize, Dr J","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,2:30pm - 5:30pm,3,Q,HA 187,Close Working Problem 12,"Nowers, Dr J","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,4:00pm - 7:00pm,3,C,HA 185,Close Working Problem 12,"Jackson, Mr B","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,5:00pm - 8:00pm,3,O,HA 186,Close Working Problem 12,"Heaney, Ms S","MEDI1014/
+MEDI1015"
+13,Wed,28/10/2015,6:00pm - 9:00pm,3,K,HA 193,Close Working Problem 12,"Rickards, Dr P","MEDI1014/
+MEDI1015"
+13,Thu,29/10/2015,11:00am - 12:00pm,1,A-H,MSW 310,Anatomy revision and practice exam,"Brichta, Prof A",MEDI1015
+13,Thu,29/10/2015,12:00pm - 1:00pm,1,I-Q,MSW 310,Anatomy revision and practice exam,"Brichta, Prof A",MEDI1015
+13,Thu,29/10/2015,2:00pm - 3:00pm,1,All,HD 01,MEDI1015 Review 2,"Spratt, Dr N",MEDI1015
+13,Fri,30/10/2015,TBA,,,,,,
