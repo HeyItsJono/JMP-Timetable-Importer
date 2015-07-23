@@ -215,7 +215,7 @@ def export_calendar(auth_code, calendar_dict, redir_url, calendar_title):
 
 def make_csv(calendar_dict):
     keys = calendar_dict[0].keys()
-    with open('static/timetable.csv', 'wb') as outfile:
+    with open('static/media/timetable.csv', 'wb') as outfile:
         dict_writer = csv.DictWriter(outfile, keys)
         dict_writer.writeheader()
         dict_writer.writerows(calendar_dict)
