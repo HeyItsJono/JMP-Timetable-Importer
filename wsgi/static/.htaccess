@@ -1,7 +1,0 @@
-RewriteEngine On
-RewriteRule ^application/static/(.+)$ /static/$1 [L]
-
-Then copy the media/* content to yourapp/wsgi/static/media/ and it should
-just work.
-
-Note: The ^application/ part of the URI match is required.
