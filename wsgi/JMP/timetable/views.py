@@ -73,9 +73,9 @@ def results(request):
     return HttpResponse("Processing Finished.")
 
 
-def download(request):
-    this_url = request.build_absolute_uri()
-    return HttpResponse(this_url)
+def download(request, csv_name):
+    csv_name = 'app-root/runtime/repo/wsgi/static/exported_timetables/timetable_' + csv_name + '.csv'
+    return HttpResponse(csv_name)
     # with open(csv_name, 'rb') as infile:
     #     response = HttpResponse(infile, content_type='text/csv')
     #     response['Content-Disposition'] = 'attachment; filename="timetable.csv"'
